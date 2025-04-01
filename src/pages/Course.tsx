@@ -1,4 +1,5 @@
 import { useEffect } from "react";
+import PromoModal from "../components/PromoBanner";
 
 function Course() {
   useEffect(() => {
@@ -7,6 +8,7 @@ function Course() {
 
   return (
     <div>
+      <PromoModal></PromoModal>
       <h1>Hello world!</h1>
     </div>
   );
