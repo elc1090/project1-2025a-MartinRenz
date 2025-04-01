@@ -6,6 +6,7 @@ function App() {
     <HashRouter>
       <Routes>
         <Route path="/" element={<Course />} />
+        <Route path="/project1-2025a-MartinRenz/" element={<Course />} />
       </Routes>
     </HashRouter>
   );
