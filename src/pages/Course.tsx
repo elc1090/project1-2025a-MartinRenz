@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import PromoModal from "../components/PromoBanner";
 import Navbar from "../components/Navbar";
 import IntroSection from "../components/IntroSection";
+import LearningBox from "../components/LearningBox";
 
 function Course() {
   useEffect(() => {
@@ -9,10 +10,11 @@ function Course() {
   }, []);
 
   return (
-    <div style={{ backgroundColor: "#2d2f48" }}>
+    <div>
       <PromoModal></PromoModal>
       <Navbar></Navbar>
       <IntroSection></IntroSection>
+      <LearningBox></LearningBox>
     </div>
   );
 }
