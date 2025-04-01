@@ -9,7 +9,7 @@
 > 6. Entregue este README.md dentro da pasta raiz do seu repositório de entrega. Peça ajuda se não souber como editar ou entregar!
 > Opcional: você pode alterar a formatação do README, mas mantenha todas as informações solicitadas
 
-![Substitua a imagem ao lado por um screenshot do seu projeto](img/chops-ux-step-4.png "Screenshot do projeto. Imagem temporária extraída de https://mdswanson.com/static/chops-ux-step-4.png")
+![Substitua a imagem ao lado por um screenshot do seu projeto](img/image.png "Screenshot do projeto.")
 
 
 Acesso: Substitua este texto pela URL para acesso ao site publicado
