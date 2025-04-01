@@ -12,14 +12,14 @@
 ![Substitua a imagem ao lado por um screenshot do seu projeto](img/image.png "Screenshot do projeto.")
 
 
-Acesso: Substitua este texto pela URL para acesso ao site publicado
+Acesso: https://elc1090.github.io/project1-2025a-MartinRenz/
 
 
 #### Desenvolvedor(a)
-Substitua este texto pela sua identificação: nome e curso
+Mártin de Moura Renz - Sistemas de Informação UFSM
 
 #### Cliente
-Substitua este texto pela identificação do cliente
+Gustavo Araujo
 
 
 
@@ -27,7 +27,7 @@ Substitua este texto pela identificação do cliente
 #### Site/app original
 
 ##### Link
-Substitua este texto pela URL do site/app escolhido
+https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/
 
 ##### Descrição
 Substitua este texto por uma descrição do site/app escolhido. Inclua observações sobre seu conteúdo, aparência e código.
