@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import PromoModal from "../components/PromoBanner";
+import Navbar from "../components/Navbar";
 
 function Course() {
   useEffect(() => {
@@ -7,8 +8,9 @@ function Course() {
   }, []);
 
   return (
-    <div>
+    <div style={{ backgroundColor: "#2d2f48" }}>
       <PromoModal></PromoModal>
+      <Navbar></Navbar>
       <h1>Hello world!</h1>
     </div>
   );
