@@ -1,11 +1,11 @@
-import { Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route, } from "react-router-dom";
 import Course from "./pages/Course";
 
 function App() {
   return (
-    <Routes>
+    <HashRouter>
       <Route path="/" element={<Course />} />
-    </Routes>
+    </HashRouter>
   );
 }
 
