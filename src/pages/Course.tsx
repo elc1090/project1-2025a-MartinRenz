@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import PromoModal from "../components/PromoBanner";
 import Navbar from "../components/Navbar";
+import IntroSection from "../components/IntroSection";
 
 function Course() {
   useEffect(() => {
@@ -11,7 +12,7 @@ function Course() {
     <div style={{ backgroundColor: "#2d2f48" }}>
       <PromoModal></PromoModal>
       <Navbar></Navbar>
-      <h1>Hello world!</h1>
+      <IntroSection></IntroSection>
     </div>
   );
 }

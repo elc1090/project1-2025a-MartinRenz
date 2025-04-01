@@ -1,0 +1,38 @@
+.intro-section {
+  background-color: #1d1e29;
+  /* Cor de fundo */
+  padding-left: 20vw;
+  /* Padding à esquerda */
+  padding-right: 20px;
+  /* Padding à direita */
+  color: white;
+  /* Cor do texto */
+  /* Alinha o texto ao centro */
+  padding-top: 30px;
+  /* Padding superior para afastar do topo */
+  padding-bottom: 30px;
+  /* Padding inferior para dar espaçamento */
+}
+
+.intro-container {
+  max-width: 800px;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-family: 'DM Sans', sans-serif;
+}
+
+h3 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-weight: normal;
+  font-family: 'DM Sans', sans-serif;
+}
+
+p {
+  font-size: 18px;
+  font-family: 'DM Sans', sans-serif;
+}
