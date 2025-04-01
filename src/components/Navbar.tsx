@@ -1,6 +1,7 @@
 import "./Navbar.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faShoppingCart, faGlobe } from "@fortawesome/free-solid-svg-icons";
+import logo from "../../logo-udemy.svg";
 
 function Navbar() {
   return (
@@ -8,7 +9,7 @@ function Navbar() {
       <div className="navbar-container">
         <img
           className="navbar-logo"
-          src="../../logo-udemy.svg"
+          src={logo}
           alt="Udemy Logo"
         />
 

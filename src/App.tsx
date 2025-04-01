@@ -1,14 +1,13 @@
-import { HashRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Course from "./pages/Course";
 
 function App() {
   return (
-    <HashRouter>
+    <BrowserRouter basename="/project1-2025a-MartinRenz/">
       <Routes>
         <Route path="/" element={<Course />} />
-        <Route path="/project1-2025a-MartinRenz/" element={<Course />} />
       </Routes>
-    </HashRouter>
+    </BrowserRouter>
   );
 }
 
