@@ -5,6 +5,25 @@ const IntroSection = () => {
   return (
     <section className="intro-section">
       <div className="intro-container">
+        <p style={{ color: "#c0c4fc" }}>
+          <strong>
+            <a href="#" style={{ textDecoration: "none", color: "inherit" }}>
+              TI e Software
+            </a>
+          </strong>{" "}
+          &gt;{" "}
+          <strong>
+            <a href="#" style={{ textDecoration: "none", color: "inherit" }}>
+              Mais opções em TI e Software
+            </a>
+          </strong>{" "}
+          &gt;{" "}
+          <strong>
+            <a href="#" style={{ textDecoration: "none", color: "inherit" }}>
+              Algoritmos
+            </a>
+          </strong>
+        </p>
         <h1>Algoritmos e Lógica de Programação - O Curso COMPLETO</h1>
         <h3>
           O curso definitivo de Lógica de Programação. Do VisualG às principais
