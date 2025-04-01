@@ -1,0 +1,26 @@
+.related-topics {
+  margin-left: 20vw;
+  width: 800px;
+  margin-bottom: 10px;
+}
+
+.button-container {
+  display: flex;
+  gap: 8px;
+}
+
+.topic-button {
+  border: 1px solid #555;
+  background: none;
+  font-weight: bold;
+  color: #282a34;
+  padding: 12px 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background 0.2s;
+  font-size: 1rem;
+}
+
+.topic-button:hover {
+  background: #ddd;
+}

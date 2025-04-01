@@ -3,6 +3,7 @@ import PromoModal from "../components/PromoBanner";
 import Navbar from "../components/Navbar";
 import IntroSection from "../components/IntroSection";
 import LearningBox from "../components/LearningBox";
+import RelatedTopics from "../components/RelatedTopics";
 
 function Course() {
   useEffect(() => {
@@ -15,6 +16,7 @@ function Course() {
       <Navbar></Navbar>
       <IntroSection></IntroSection>
       <LearningBox></LearningBox>
+      <RelatedTopics></RelatedTopics>
     </div>
   );
 }
