@@ -1,4 +1,4 @@
-import { HashRouter, Routes, Route, } from "react-router-dom";
+import { HashRouter, Route, } from "react-router-dom";
 import Course from "./pages/Course";
 
 function App() {
