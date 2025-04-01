@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://elc1090.github.io/project1-2025a-MartinRenz",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",

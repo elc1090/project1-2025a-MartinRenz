@@ -3,7 +3,7 @@ import Course from "./pages/Course";
 
 function App() {
   return (
-    <BrowserRouter basename="/project1-2025a-MartinRenz/">
+    <BrowserRouter basename="/project1-2025a-MartinRenz">
       <Routes>
         <Route path="/" element={<Course />} />
       </Routes>
