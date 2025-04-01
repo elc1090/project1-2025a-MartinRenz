@@ -1,4 +1,3 @@
-import React from "react";
 import "./IntroSection.css"; // Adicionando o arquivo de estilos
 
 const IntroSection = () => {
