@@ -32,6 +32,28 @@ h3 {
   font-family: 'DM Sans', sans-serif;
 }
 
+.classification-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  /* Espaço entre os dois elementos */
+}
+
+.classification {
+  background-color: #ffda7e;
+  color: #91450c;
+  padding: 10px 15px;
+  border-radius: 12px;
+  font-size: 16px;
+  display: inline-block;
+}
+
+.students-count {
+  display: inline-block;
+  font-size: 18px;
+  font-family: 'DM Sans', sans-serif;
+}
+
 p {
   font-size: 18px;
   font-family: 'DM Sans', sans-serif;
